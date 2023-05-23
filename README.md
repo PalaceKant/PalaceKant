@@ -22,11 +22,12 @@
 
 <p align ="center">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
-
+<img src="https://img.shields.io/badge/intellijidea-#000000?style=flat-square&logo=intellijidea&logoColor=White"/>
 
 
 
 
 ###  :mailbox: Contact
 
+<p align ="center">
 <a href="mailto:qprkdprtm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
