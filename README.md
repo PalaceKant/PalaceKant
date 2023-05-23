@@ -22,7 +22,7 @@
 
 <p align ="center">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ IDEA-#000000?style=flat-square&logo=IntelliJ IDEA&logoColor=White"/>
+<img src="https://img.shields.io/badge/IntelliJIDEA-#000000?style=flat-square&logo=IntelliJIDEA&logoColor=White"/>
 
 
 
